@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: "Jennie Wang's Blog"
+subtitle: 'Welcome to my Blog'
+description: 'Personal blog where I share my study and life'
 keywords:
-author: John Doe
+author: Jennie Wang
 language: en
 timezone: ''
 
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com/wangzp10/wangzp10.github.io.git
-  branch: main
+  repo: git@github.com:wangzp10/wangzp10.github.io.git
+  branch: master
